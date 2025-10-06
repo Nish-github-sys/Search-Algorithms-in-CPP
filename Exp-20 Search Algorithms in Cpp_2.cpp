@@ -33,3 +33,13 @@ int main() {
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter number of elements: 3
+Enter elements: 1
+5
+2
+Enter element to search: 2
+Element found at index 2
+*/
