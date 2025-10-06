@@ -42,3 +42,15 @@ int main() {
     }
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter the number of elements in the sorted array: 5
+Enter 5 sorted elements: 1
+2
+3
+4
+5
+Enter the value to be searched: 2
+Element found at index: 1
+*/
