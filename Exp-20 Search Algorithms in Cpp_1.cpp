@@ -32,3 +32,8 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Element not found!
+*/
